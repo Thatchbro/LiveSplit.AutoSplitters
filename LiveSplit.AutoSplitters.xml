@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Lomax</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Thatchbro/Autosplit-Lomax-PC-and-Emu/main/Lomax%20Autosplit%20PC%20and%20Epsxe%20v205%20SCUS%2094906.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplit for PC and Emulator by Thatchbro</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Castle Crashers</Game>
         </Games>
         <URLs>
@@ -9,8 +19,6 @@
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover by FlammingFire</Description>
-    </AutoSplitter>
-<AutoSplitters>
     <AutoSplitter>
         <Games>
             <Game>DYSMANTLE</Game>
